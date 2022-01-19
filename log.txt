@@ -1,0 +1,11 @@
+Voroude:
+ali
+kala1
+4
+4500
+450
+ali
+kala3
+2
+800
+80
